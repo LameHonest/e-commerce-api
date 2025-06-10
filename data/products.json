@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "Premium wireless headphones with noise cancellation",
+    "price": 129.99,
+    "imageUrl": "https://example.com/images/headphones.jpg",
+    "category": "Electronics",
+    "stock": 50
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Fitness tracking smartwatch with heart rate monitor",
+    "price": 199.99,
+    "imageUrl": "https://example.com/images/smartwatch.jpg",
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "name": "Graphic T-Shirt",
+    "description": "Cotton graphic t-shirt with modern design",
+    "price": 24.99,
+    "imageUrl": "https://example.com/images/tshirt.jpg",
+    "category": "Apparel",
+    "stock": 100
+  },
+  {
+    "name": "Denim Jeans",
+    "description": "Slim fit denim jeans for men",
+    "price": 59.99,
+    "imageUrl": "https://example.com/images/jeans.jpg",
+    "category": "Apparel",
+    "stock": 75
+  },
+  {
+    "name": "Coffee Maker",
+    "description": "Programmable coffee maker with thermal carafe",
+    "price": 89.99,
+    "imageUrl": "https://example.com/images/coffeemaker.jpg",
+    "category": "Home",
+    "stock": 25
+  },
+  {
+    "name": "Water Bottle",
+    "description": "Insulated stainless steel water bottle",
+    "price": 19.99,
+    "imageUrl": "https://example.com/images/waterbottle.jpg",
+    "category": "Sports",
+    "stock": 120
+  }
+]
